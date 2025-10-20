@@ -1,19 +1,3 @@
-<img width="1911" height="975" alt="image" src="https://github.com/user-attachments/assets/8c7b4d7f-5add-434e-8841-a2e5fa1103db" />
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<img width="1856" height="279" alt="image" src="https://github.com/user-attachments/assets/d4c4cc05-e533-4da6-be85-44ee6cc0b190" />
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-<img width="1017" height="817" alt="image" src="https://github.com/user-attachments/assets/5609d018-ccd9-4b32-9032-56e9ce1fa18b" />
-
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-
 # Task Manager Frontend
 
 A modern React 19 frontend application built with TypeScript and Ant Design for managing tasks and executing commands.
